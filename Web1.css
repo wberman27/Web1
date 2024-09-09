@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+div {
+    text-align: center;
+    color: red
+}
+
+button {
+    padding: 25px;
+    color:red;
+    background-color: grey;
+    border-radius: 25%;
+    border-width: 10px;
+    border-color: aqua;
+}
+
+button:hover {
+    background-color: purple; /*overridden by js mouseover black*/
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
